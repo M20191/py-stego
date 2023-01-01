@@ -19,13 +19,17 @@
 ```bash
 git clone https://github.com/M20191/py-stego && cd py-stego/ && pip install -r requirements.txt
 ```
-## 🐍 Usage
+## 🐍 Usage Encode
 ```bash
 python/python3 main.py --text "Secret!!" --encode to_encode.png
 ```
+## 🐍 Usage Decode
+```bash
+python/python3 main.py --decode to_encode_encoded.png
+```
 ## 📌 Arguments
 ```bash
-usage: py/python3 main.py [-h] [-t] {-e,-d}
+Usage: py/python3 main.py [-h] [-t] {-e,-d}
 
 Arguments:
   -h, --help         Show this help message
