@@ -9,7 +9,7 @@
 <p>
     Py-Stego is an open source project dedicated to steganography text in images PNG
 </p>
----
+- - -
 
 ### 📄 File Support
 * PNG
@@ -18,13 +18,12 @@
 ```bash
 git clone https://github.com/M20191/py-stego && cd py-stego/ && pip install -r requirements.txt
 ```
-
-### Usage
+### 🐍 Usage
 ```
 python/python3 main.py --text "Secret!!" --encode to_encode.png
 ```
+### 📌 Arguments
 ```bash
-#~ cme --help
 usage: py/python3 main.py [-h] [-t] {-e,-d}
 
 Arguments:
@@ -32,5 +31,4 @@ Arguments:
   -t, --text         Text to encode
   -e, --encode       Image file to encode data
   -d, --decode       Image to decode data
-
 ```
