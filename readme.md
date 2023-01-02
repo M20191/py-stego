@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    Py-Stego is an open source project dedicated to steganography text in images PNG
+    Py-Stego is a open source project dedicated to steganography text in images PNG
 </p>
 
 ---
