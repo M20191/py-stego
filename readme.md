@@ -38,7 +38,7 @@ Arguments:
   -d, --decode       Image to decode data
 ```
 ## 🔒 Normal image
-![normal](https://github.com/M20191/py-stego/blob/main/to_encode.png)
+![normal](to_encode.png)
 
 ## 🔐 Encrypted image
-![encrypted](https://github.com/M20191/py-stego/blob/main/encode/to_encode.png_encoded.png)
+![encrypted](encode/to_encode_encoded.png)
